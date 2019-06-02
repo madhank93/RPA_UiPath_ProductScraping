@@ -3,7 +3,7 @@
 Steps To Automate
 ==========================
 
-Follow the below steps to achieve the aim:
+Follow the below steps:
 ---------------
 
 1. Use the Data Scraping tool and record the data that you want to extract.
